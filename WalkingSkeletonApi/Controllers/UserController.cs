@@ -26,10 +26,10 @@ namespace WalkingSkeletonApi.Controllers
         {
             // map data from db to dto to reshape it and remove null fields
             var listOfUsersToReturn = new List<UserToReturnDto>();
-            
-            if(_userService.Users != null)
+            var users = _userService.Users;
+            if(users != null)
             {
-                foreach(var user in _userService.Users)
+                foreach(var user in users)
                 {
                     listOfUsersToReturn.Add(new UserToReturnDto {
                         Id = user.Id,

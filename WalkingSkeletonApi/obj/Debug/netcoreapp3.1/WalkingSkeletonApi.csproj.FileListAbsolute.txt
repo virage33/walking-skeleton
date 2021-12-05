@@ -38,3 +38,7 @@ C:\Users\cidos\Source\Repos\WalkingSkeleton\WalkingSkeletonApi\bin\Debug\netcore
 C:\Users\cidos\Source\Repos\WalkingSkeleton\WalkingSkeletonApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 C:\Users\cidos\Source\Repos\WalkingSkeleton\WalkingSkeletonApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\cidos\Source\Repos\WalkingSkeleton\WalkingSkeletonApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cidos\Source\Repos\WalkingSkeleton\WalkingSkeletonApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cidos\Source\Repos\WalkingSkeleton\WalkingSkeletonApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\cidos\Source\Repos\WalkingSkeleton\WalkingSkeletonApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cidos\Source\Repos\WalkingSkeleton\WalkingSkeletonApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll

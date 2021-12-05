@@ -5,9 +5,9 @@ using System.Security.Claims;
 using System.Text;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
-using SWS.Models;
+using WalkingSkeletonApi.Models;
 
-namespace SWS.Core.Services
+namespace WalkingSkeletonApi.Services
 {
     public class JWTService : IJWTService
     {

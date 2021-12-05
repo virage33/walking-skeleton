@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using SWS.Models;
+using WalkingSkeletonApi.Models;
 
-namespace SWS.Core.Services
+namespace WalkingSkeletonApi.Services
 {
     public interface IJWTService
     {
